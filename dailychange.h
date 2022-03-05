@@ -1,0 +1,4 @@
+#ifndef DAILYCHANGE_H
+#define DAILYCHANGE_H
+
+#endif // DAILYCHANGE_H
